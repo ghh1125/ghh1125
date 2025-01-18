@@ -7,21 +7,16 @@ Hanghui Guo received the B.E. degree in [Data Science and Big Data Technology fr
 News
 ======
 
-## December 2024  
-*RaDIO: Real-Time Hallucination Detection with Contextual Index Optimized Query Formulation for Dynamic Retrieval Augmented Generation* accepted by *AAAI2025*  
+<span style="color: blue;">December 2024</span>   *RaDIO: Real-Time Hallucination Detection with Contextual Index Optimized Query Formulation for Dynamic Retrieval Augmented Generation* accepted by *AAAI2025*  
 J Zhu, **H Guo**, W Shi, Z Chen, Pasquale De Meo
 
-## July 2024  
-*Empowering Education: Enhancing Unsupervised Knowledge Graph Question Answering through Adaptive Exploration* accepted by *2024APWEBW*  
+<span style="color: blue;">July 2024</span>   *Empowering Education: Enhancing Unsupervised Knowledge Graph Question Answering through Adaptive Exploration* accepted by *2024APWEBW*  
 X Yang, Z Chen, **H Guo** (Corresponding Author), Tetiana Shestakevych
 
-## June 2024  
-*Stable Attribution with Local Surrogate Model* accepted by *CCSCW*  
+<span style="color: blue;">June 2024</span>   *Stable Attribution with Local Surrogate Model* accepted by *CCSCW*  
 C Pan, Q Wang, J Zhu, X Cao, **H Guo**, C Huang
 
-## November 2023  
-Attended *SMP2023* conference, Hefei, Anhui, China
+<span style="color: blue;">November 2023</span>   Attended *SMP2023* conference, Hefei, Anhui, China
 
-## September 2023  
-*Dual trustworthy mechanism for illness classification with multi-modality data* accepted by *ICDMW*  
+<span style="color: blue;">September 2023</span>   *Dual trustworthy mechanism for illness classification with multi-modality data* accepted by *ICDMW*  
 Q Wang, J Zhu, C Pan, J Shi, C Meng, **H Guo**
